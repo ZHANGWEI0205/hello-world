@@ -1,3 +1,2 @@
 # hello-world
-this is a commit for changes.
-
+this is my first repository. see what I can do...
